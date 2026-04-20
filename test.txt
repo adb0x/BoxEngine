@@ -1,0 +1,298 @@
+January 2024- East Lansing, MI.
+The nation's #1 game development program grows anxious.
+
+Despite their exceptional performance and rankings (seriously, you should consider their graduate school), the Spartans of Michigan State University can't help but feel a storm brewing in Ann Arbor. "The Wolverines are putting together quite a program, aren't they?" "Those UMich students - their programming abilities are exceptional, and they're stealing all the gamedev internships!", "if their scene continues this momentum, we may be in trouble..."
+
+Having stormed the University of Michigan campus twice before - and having been repelled twice before (check out the Crisis Wolverine games)--the Spartans were eager to make their third try a lucky one...
+
+The struggle began one Sunday night at 3am. With most students and faculty sleeping, the Spartans struck, taking over the Duderstadt Center with Spartan speed - their goal? To destroy the EECS 404 autograder and ruin the new game engine course!
+
+Fortunately, you (p) were working on homework late into the night in the VisStudio. When the spartans (s) burst through the lab door, you quickly grabbed the autograder (a raspberry pie 4) from the front desk and hid beneath a table as the lights went out. Despite your late-night fatigue, you begin feeling your way past the walls (b) and through the halls. Can you escape, or will the Michigan gamedev program crash and burn?
+
+G A M E - S T A R T
+       s     
+bbbb    s    
+f  bbbbb s   
+         b   
+      p  b   
+         b   
+bbbbbbbbb    
+             
+          b  
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+        s    
+ bbbb    s   
+ f  bbbbb s  
+          b  
+      p   b  
+          b  
+bbbbbbbbbb   
+             
+           b 
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+         s   
+  bbbb    s  
+  f  bbbbb s 
+           b 
+w     p    b 
+           b 
+bbbbbbbbbbb  
+             
+b           b
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+          s  
+b  bbbb    s 
+   f  bbbbb s
+            b
+ w    p     b
+4           b
+bbbbbbbbbbbb 
+             
+bb           
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+           s 
+bb  bbbb    s
+b   f  bbbbb 
+b            
+b w   p      
+b4           
+bbbbbbbbbbbbb
+             
+ bb          
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+ s          s
+bbb  bbbb    
+ b   f  bbbbb
+ b           
+ b w  p      
+ b4          
+ bbbbbbbbbbbb
+             
+  bb         
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+   s         
+bbbb  bbbb   
+  b   f  bbbb
+  b          
+  b w p      
+  b4         
+  bbbbbbbbbbb
+             
+   bb        
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+     s       
+ bbbb  bbbb  
+   b   f  bbb
+   b         
+   b wp      
+   b4        
+   bbbbbbbbbb
+             
+    bb       
+(One of your wolverine classmates is nearby) "Hey-- be careful! Some spartans are sneaking around over there. Stay far away and slip past if you can... It looks like some of the other students are panicking, which I told them to not do! And now they're lost in the darkness. Look for their ('f') icon and go see if you can calm them down. Then, get out of there and go find Professor Yarger!"
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+       s     
+  bbbb  bbbb 
+    b   f  bb
+    b        
+    b p      
+    b4       
+    bbbbbbbbb
+             
+     bb      
+(you're standing on your friend, but they don't seem to mind. They are a good friend.)
+(There's an EECS 494 student working on her laptop nearby. She looks very busy and is doesn't want to talk.)
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+    s        
+        s    
+  bbbb  bbbb 
+    b   f  bb
+    b p      
+    b w      
+    b4       
+    bbbbbbbbb
+             
+(One of your wolverine classmates is nearby) "Hey-- be careful! Some spartans are sneaking around over there. Stay far away and slip past if you can... It looks like some of the other students are panicking, which I told them to not do! And now they're lost in the darkness. Look for their ('f') icon and go see if you can calm them down. Then, get out of there and go find Professor Yarger!"
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+ bbbb  bbbb  
+   s         
+         s   
+  bbbb  bbbb 
+    b p f  bb
+    b        
+    b w      
+    b4       
+    bbbbbbbbb
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+ b  b f b  bb
+ bbbb  bbbb  
+  s          
+          s  
+  bbbbp bbbb 
+    b   f  bb
+    b        
+    b w      
+    b4       
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+ b  b    b   
+ b  b f b  bb
+ bbbb  bbbb  
+ s           
+      p    s 
+  bbbb  bbbb 
+    b   f  bb
+    b        
+    b w      
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+ b  bb bbb   
+ b  b    b   
+ b  b f b  bb
+ bbbb  bbbb  
+s     p      
+            s
+  bbbb  bbbb 
+    b   f  bb
+    b        
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+b  bb bbb    
+b  b    b   b
+b  b f b  bb 
+bbbb  bbbb  s
+      p      
+            s
+ bbbb  bbbb  
+   b   f  bbb
+   b         
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+ b  bb bbb   
+ b  b    b   
+ b  b f b  bb
+ bbbb  bbbb  
+      p      
+             
+  bbbb  bbbb 
+    b   f  bb
+    b        
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+b  bb bbb    
+b  b    b   b
+b  b f b  bb 
+bbbb  bbbb  s
+      p      
+             
+ bbbb  bbbb  
+   b   f  bbb
+   b         
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+  bb bbb     
+  b    b   bb
+  b f b  bb  
+bbb  bbbb  s 
+      p      
+           s 
+bbbb  bbbb   
+  b   f  bbbb
+  b          
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+ bb bbb     b
+ b    b   bb 
+ b f b  bb   
+bb  bbbb  s  
+      p     b
+         s  s
+bbb  bbbb    
+ b   f  bbbbb
+ b           
+health : 3, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+bb bbb     bb
+b    b   bb  
+b f b  bb    
+b  bbbb  s   
+      p    bb
+       s   s 
+bb  bbbb    s
+b   f  bbbbb 
+b            
+Hey, you! (the spartan throws a fake plastic spear at you. It bounces off but kinda hurts your ego a bit. [health down])
+health : 2, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+b    b   bb  
+
+b f b  bb    
+b  bbbb  s   
+           bb
+      p    s 
+bb  bbbb    s
+b   f  bbbbb 
+b            
+b w          
+Gotcha! (the spartan is right next to you, and pokes you with a fake plastic spear. They're really into it and having a good time, and we can't be having that. [health down])
+health : 1, score : 0
+Please make a decision...
+Your options are "n", "e", "s", "w", "quit"
+b    b   bb  
+b f b  bb    
+b  bbbb  s   
+           bb
+     sp    s 
+bb  bbbb    s
+b   f  bbbbb 
+b            
+b w          
+Hey, you! (the spartan throws a fake plastic spear at you. It bounces off but kinda hurts your ego a bit. [health down])
+health : 0, score : 0
+Exhausted by the chase, darkness begins to swirl around you.
+
+Suddenly the floor greets you, followed by pure silence. You've fallen asleep. It is 3am after all, and your physiology has made an executive decision.
+
+You wake up to bright lights- the Duderstadt Center is now lively and back-to-business. People keep looking at you funny however, as if the Spartans from last night have written something on your forehead. You're too afraid to ask or even check for yourself. What's worse, you notice the autograder is no longer in your possession.
+
+Upon arriving home, you find an email from the Professor sitting ominously in your inbox.
+
+"Hi Class,
+
+I want to apologize- I messed up and left my only raspberry pi in the VisStudio last night. You know- the one with the autograder on it. Unfortunately, I made an even greater error in forgetting to use proper version control, so I'm afraid the autograder software is toast. I know this is all devastating to you, but I'll have to give extensions to everyone, and make the homework much easier."
+
+What a bitter-sweet win for the spartans. While you end up enjoying your extension, you aren't able to learn as much given the tight class schedule and cut course content. You feel a bit cheated, and live in the most mild state of terror, contemplating how the spartans could disrupt your other courses, EECS 494, EECS 440, and EECS 298.
+
+Y O U L O S E
+G A M E O V E R
