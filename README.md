@@ -1,1 +1,1 @@
-# A miniature game engine created by adbox
+# A game engine created by adbox
